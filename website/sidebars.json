@@ -1,0 +1,47 @@
+{
+  "docs": {
+    "Get Started": [
+      "get-started/overview", 
+      "get-started/angular", 
+      "get-started/nodejs", 
+      "get-started/mongodbguide",
+      "get-started/gitguide"
+    ],
+    "Installation": [
+      "installation/install-angular", 
+      "installation/install-dependencies", 
+      "installation/deployment"
+    ],
+    "Front-End Guide": [
+      "frontend-guide/structure", 
+      "frontend-guide/login", 
+      "frontend-guide/settings", 
+      "frontend-guide/schedule", 
+      "frontend-guide/message-card",
+      "frontend-guide/welcome-screen", 
+      "frontend-guide/authentication",
+      "frontend-guide/preview",
+      "frontend-guide/drag-and-drop",
+      "frontend-guide/date-picker", 
+      "frontend-guide/loading", 
+      "frontend-guide/progress-bar"
+    ],
+    "Back-End Guide": [
+      "backend-guide/structure",
+      "backend-guide/calendar",
+      "backend-guide/message-card",
+      "backend-guide/background",
+      "backend-guide/font",
+      "backend-guide/gms",
+      "backend-guide/logo",
+      "backend-guide/preview",
+      "backend-guide/schedule",
+      "backend-guide/setting",
+      "backend-guide/welcome-screen",
+      "backend-guide/services",
+      "backend-guide/models",
+      "backend-guide/middleware",
+      "backend-guide/helper"
+    ]
+  }
+}
